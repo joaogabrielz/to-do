@@ -6,13 +6,13 @@
 
 body {
    margin:auto;
-    background-color: rgb(161, 255, 200);
+    background-color: rgb(95, 151, 255);
     font-size: 1.5rem;
     text-align: center;
 }
 .container{
     margin: 0 auto;
-    background-color: rgb(242, 255, 166);
+    background-color: rgb(233, 255, 111);
      width: 300px;
      height: 300px;
     padding: 30px;
